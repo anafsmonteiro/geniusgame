@@ -6,6 +6,6 @@
 * Ganha ao completar às 20 rodadas sem errar.
 
 > Deploy
-*
+* https://anafsmonteiro.github.io/simongame/
 
 ![image](https://user-images.githubusercontent.com/107011686/220212786-149e4a20-6a1d-485e-a240-77c55fc93c7b.png)
