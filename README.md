@@ -5,6 +5,6 @@
 * Ganha quem completar às 20 rodadas sem errar.
 
 > Deploy
-* https://anafsmonteiro.github.io/simongame/
+* https://anafsmonteiro.github.io/geniusgame/
 
 ![simon](https://user-images.githubusercontent.com/107011686/220739491-b5247846-725d-49a9-8f24-79e53dc6c792.JPG)
