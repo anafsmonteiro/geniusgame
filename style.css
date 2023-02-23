@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root {
-    --fonte: 'Original Surfer',cursive;
+    --fonte: 'Gajraj One',cursive;
     --botao-fundo: #D3D3D3;
     --turno-fundo: #330000;
     --vermelho: #ff0000;
@@ -52,7 +52,6 @@ main {
     text-transform: uppercase;
     font-family: var(--fonte);
     font-size: .8em;
-    font-weight: 700;
     background-color: var(--botao-fundo);
    margin: 1em 0;
 }
